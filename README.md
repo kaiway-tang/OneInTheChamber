@@ -1,3 +1,5 @@
-This project is a virutal reality GIS-like program that allows users to view and interact with informational geographic models in virtual reality. The program's interactive interface displays information such as weather and traffic conditions, topography, and land use. It was created with Unity and Meta's Oculus SDK, and featured intuitive, responsive means of interaction through the extensive use of hand tracking and gesture recognition. The precise interactions implemented were assessed and selected through A/B testing on users to ensure a smooth user experience.
+My submission for Hack the North 2024!
 
-A presentation of its features can be seen here: https://youtu.be/GJzazfezf0E
+One in the Chamber is a lightning-fast first-person shooter about dodging, catching, and firing arrows in an attempt to delay the inevitable...
+
+Asset Credits: https://docs.google.com/document/d/1RGURsWDSBMctqDMyG8pYrzLpEIv8HQuyuk99AolPYMU/edit?usp=sharing
